@@ -1,0 +1,6 @@
+/* Tạo một tập tin external CSS để áp dụng cùng một kiểu chữ (font) và kích thước chữ (font-size) cho toàn bộ trang web. --> */
+h2,p{
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+}
